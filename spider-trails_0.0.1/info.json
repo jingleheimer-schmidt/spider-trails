@@ -1,0 +1,13 @@
+{
+  "name": "spider-trails",
+  "version": "0.0.1",
+  "title": "Spider Trails",
+  "author": "asher_sky",
+  "contact": "",
+  "homepage": "",
+  "description": "Spidertrons create a glowing colored trail wherever they go \n\nVery configurable",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"base"
+	]
+}
